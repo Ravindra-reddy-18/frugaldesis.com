@@ -3,7 +3,7 @@ layout: post
 title: "My First Blog"
 ---
 
-#How to Fly to India free
+# How to Fly to India free
 
 Most of us NRIs living here in the United States, know that if u book your flight early enough, you can get it for cheap, sometimes as low as $500. But what many don’t know is that you can book a flight for free if you plan well in advance. 
 
