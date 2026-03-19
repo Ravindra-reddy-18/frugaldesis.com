@@ -7,9 +7,9 @@ title: "How to Fly to India free"
 
 How? Aren’t you in a hurry. In the above sentence, the highlighted word is not "free", but “plan” and “in advance”. Because this is not something as a coupon code which you can apply at check out and make it zero. No, this requires planning and patience, but trust me, when you do it right, it feels better than applying a coupon code at checkout.
 
-Alright, the secret sauce here is Credit Cards. Not just any credit cards, but travel reward credit cards, which every major banks and credit card companies offer in the United States.
-
 <!--more-->
+
+Alright, the secret sauce here is Credit Cards. Not just any credit cards, but travel reward credit cards, which every major banks and credit card companies offer in the United States.
 
 What is a travel rewards credit card? It is just like a regular credit card, but the bank or the company offering the credit cards have special promotions and incentives for travel, think 5X points on hotel stays and flight booking.
 
