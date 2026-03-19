@@ -7,9 +7,9 @@ Most of us NRIs living here in the United States, know that if u book your fligh
 
 How? Aren’t you in a hurry. In the above sentence, the highlighted word is not "free", but “plan” and “in advance”. Because this is not something as a coupon code which you can apply at check out and make it zero. No, this requires planning and patience, but trust me, when you do it right, it feels better than applying a coupon code at checkout.
 
-Alright, the secret sauce here is Credit Cards. Not just ant credit cards, but travel reward credit cards, which every major banks and credit card companies offer in the United States.
+Alright, the secret sauce here is Credit Cards. Not just any credit cards, but travel reward credit cards, which every major banks and credit card companies offer in the United States.
 
-What is a travel rewards credit card? It is just like a regular credit card, but the bank or the company offering the credit cards offer special promotions and incentives for travel, think 5X points on hotel stays and flight booking.
+What is a travel rewards credit card? It is just like a regular credit card, but the bank or the company offering the credit cards have special promotions and incentives for travel, think 5X points on hotel stays and flight booking.
 
 Free how?? Just tell me already!! 
 
@@ -30,5 +30,5 @@ Don’t just take my word for it, here are some links where you can learn more a
 Disclaimer, these cards often come with an annual fee around $90-$100, which can be paid for itself if you keep earning points, or you can always close the card once you have your free flight.
 
 Thanks for reading.
-Ravi.
 
+Ravi.
