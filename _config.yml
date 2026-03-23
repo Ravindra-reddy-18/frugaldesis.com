@@ -1,2 +1,4 @@
 theme: minima
 excerpt_separator: <!--more-->
+plugins:
+ - jekyll-seo-tag
