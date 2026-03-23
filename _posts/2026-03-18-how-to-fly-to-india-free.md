@@ -2,7 +2,7 @@
 layout: post
 title: "How to Fly to India free"
 ---
-<img src="..\images\flight.png" alt="An air india flight flying">
+<img src="{{ '/images/flight.png' | relative_url }}" alt="An air india flight flying">
 *Most* of us Desis living here in the United States, know that if u book your flight early enough, you can get it for cheap, sometimes as low as $500. But what many don’t know is that you can book a flight for free if you *plan well in advance.* 
 
 How? Aren’t you in a hurry. In the above sentence, the highlighted word is not "free", but “plan well in advance”. Because this is not something as a coupon code which you can apply at check out and make it zero. No, this requires planning and patience, but trust me, when you do it right, it feels better than applying a coupon code at checkout.
