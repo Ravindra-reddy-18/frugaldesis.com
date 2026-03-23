@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How to Fly to India free"
+description: "Free Flight to india, with travel rewards credit cards, travel hacking"
 ---
-<img src="{{ '/images/flight.png' | relative_url }}" alt="An air india flight">
-
+<img src="{{ '/images/flight.png' | relative_url }}" alt="free flight to india">
 
 *Most* of us Desis living here in the United States, know that if u book your flight early enough, you can get it for cheap, sometimes as low as $500. But what many don’t know is that you can book a flight for free if you *plan well in advance.* 
 
