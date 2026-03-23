@@ -2,7 +2,7 @@
 layout: post
 title: "How to Fly to India free"
 ---
-<img src="{{ '/images/flight.png' | relative_url }}" alt="An air india flight flying">
+<img src="{{ '/images/flight.png' | relative_url }}" alt="An air india flight">
 
 
 *Most* of us Desis living here in the United States, know that if u book your flight early enough, you can get it for cheap, sometimes as low as $500. But what many don’t know is that you can book a flight for free if you *plan well in advance.* 
@@ -17,9 +17,9 @@ What is a travel rewards credit card? It is just like a regular credit card, but
 
 Free how?? Just tell me already!! 
 
-Patience!! These credit cards often come with a new member bonus, a huge bonus!! But you will have to spend certain amount in 3 or 5 months in most cases. For example, for chase sapphire preferred (CSP) card, you will have to spend $5000 in 3 months, to get 75000, points, which are equal to $750 in value. This might seem an insane amount to spend in 3 months for our frugal desi friends and may think this is a scam. No actually a lot of people did the same exact thing and had some great vacations, you and i are just late to the party my dosth. To be honest It’s pretty easy, you just have to put everything you buy on the card!!
+These credit cards often come with a new member bonus, a huge bonus!! But you will have to spend certain amount in 3 or 5 months in most cases. For example, for a chase sapphire preferred (CSP) card, you will have to spend $5000 in 3 months, to get 75000, points, which are equal to $750 in value. This might seem an insane amount to spend in 3 months for our frugal desi friends and may think this is a scam. No actually a lot of people did the same exact thing and had some great vacations, you and i are just late to the party my dosth. To be honest It’s pretty easy, you just have to put everything you buy on the card!!
 
-Let’s do the math, in my own case, I applied for a CSP, and my three months timer started around Jan 20, 2026. I’ve time till Apr 20 to speed 5000 and receive my 75000 points. I’ve taken charge of buying groceries in my room every month, it easily costs $1000 dollars for six of us (yes, we are students). Gas – $100 dollars a month, my personal stuff costs around $100 a month whether it is eating out or going to coffee or ice cream dates with my girlfriend, and I had to change a couple parts in my car recently, headlight bulbs, air intake hose and air filter which costed around $200, I forgot and an oil change - $85. That’s roughly around $3885. 
+Let’s do the math, in my own case, I applied for a CSP, and my three months timer started around Jan 20, 2026. I’ve time till Apr 20 to speed 5000 and receive my 75,000 points. I’ve taken charge of buying groceries in my room every month, it easily costs $1000 dollars for six of us (yes, we are students). Gas – $100 dollars a month, my personal stuff costs around $100 a month whether it is eating out or going to coffee or ice cream dates with my girlfriend, and I had to change a couple parts in my car recently, headlight bulbs, air intake hose and air filter which costed around $200, I forgot and an oil change - $85. That’s roughly around $3885. 
 
 That’s still not enough!!
 
@@ -27,9 +27,13 @@ I am paying my rent with my card in April for $1440, that’ll put me over the $
 
 Once you have your points, you book your flight as you do regularly, well in advance. And go to the credit card company portal where you can wipe out the flight charge with the points you earned, or you can book the flight from the credit card company’s travel portal and pay with points instead. 
 
-Voila, there is your free flight to India.
+Voila, there's your free flight to India.
 
 Don’t just take my word for it, here are some links where you can learn more about the broader travel hacking concepts from resources I trust and follow.
+
+[ChooseFI - getting started with travel rewards](https://choosefi.com/travel-rewards/travel-rewards-getting-started)
+
+[Getting started with points, miles and credit cards to travel](https://thepointsguy.com/loyalty-programs/beginners/)
 
 Disclaimer, these cards often come with an annual fee around $90-$100, which can be paid for itself if you keep earning points, or you can always close the card once you have your free flight.
 
