@@ -6,13 +6,13 @@ description: Free Flight to india, with travel rewards credit cards, travel hack
 
 <img src="{{ '/images/flight.png' | relative_url }}" alt="free flight to india">
 
-**Most of us _Desis_** living here in the United States, know that if u book your flight early enough, you can get it for cheap, sometimes as low as $500. But what many don’t know is that you can book a flight for free if you *plan well in advance.* 
+**Most of us _Desis_** living here in the United States, know that if u book your flight early enough, you can get it for cheap, sometimes as low as $500. But what many don’t know is that you can book a flight for free if you **plan well in advance.** 
 
 How? Aren’t you in a hurry. In the above sentence, the highlighted word is not "free", but “plan well in advance”. Because this is not something as a coupon code which you can apply at check out and make it zero. No, this requires planning and patience, but trust me, when you do it right, it feels better than applying a coupon code at checkout.
 
 <!--more-->
 
-Alright, the secret sauce here is Credit Cards. Not just any credit cards, but travel reward credit cards, which every major banks and credit card companies offer in the United States.
+Alright, the secret sauce here is Credit Cards. Not just any credit cards, but **travel reward credit cards**, which every major banks and credit card companies offer in the United States.
 
 What is a travel rewards credit card? It is just like a regular credit card, but the bank or the company offering the credit cards have special promotions and incentives for travel, think 5X points on hotel stays and flight booking.
 
