@@ -1,4 +1,4 @@
-theme: minima
+theme: minimal
 excerpt_separator: <!--more-->
 plugins:
  - jekyll-seo-tag
