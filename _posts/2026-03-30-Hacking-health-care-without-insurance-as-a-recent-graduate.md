@@ -11,6 +11,8 @@ description: How to live in the US without insurance after graduation, f1 opt st
 
 I strongly believe this is the same case with a **_huge number of Desis as well, just going around without insurance_**, and hoping not to set foot in a hospital ever.
 
+<!--more-->
+
 From where we come from, the concept of medical insurance _feels complicated, with terms we are not even familiar with, and in fact may feel like a total waste of money, so I dont blame anyone for not having an insurance._
 
 Back in the country, if we are sick, we would just go to an RMP (Registered Medical Practitioners) and get it looked at and get medicines around 100 rupees, or if it’s a little more serious and needs to be looked at by a real doctor, we would just go to a hospital, take an appointment(O.P) with maybe around 200 rupees, get looked at by the doctor, and get a prescription. And if we don’t feel better yet after a couple weeks, we can go for a second visit with the same doctor, without paying for the appointment again, cause that freaking O.P we made earlier is good for a freaking month!!! (or at least used to be)
