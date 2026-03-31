@@ -34,7 +34,7 @@ Since then, I’ve spent around \$40-\$60 at the hospital and got far better val
 Some instances of how my friends and I used this,  
 * skin allergy check up - my first appointment, free
 * eye checkups up - my friends first appointment, free
-* glasses - my friend two pairs of glasses with glare protection for /$90
+* glasses - my friend got her eye checkups for /$20 and got a prescription for two pairs of glasses with glare protection for /$90
 * ear infection - another friend had a bad ear infection, get it checked for antibiotics prescription for /$20
 * flu fever - i was down with severe fever for a couple days, went to the hospital, got tested positive for flu and antibiotics prescription for /$20
 * blood tests - i and friend got our annual comprehensive metabolic panel, to test out liver, kidney and metabolic performance, at /$20 each
