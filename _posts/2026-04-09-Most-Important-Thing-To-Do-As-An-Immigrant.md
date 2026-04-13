@@ -6,6 +6,7 @@ description: Importance of Life insurance for F1 students, immigrants and non im
 
 <img src="{{ '/images/setting_sun.jpeg' | relative_url }}" alt="life insurance is importrant for F1 and immigrant students">
 
+
 **One of the most** important thing as an immigrant, living away from home, parents, and all that you love and care, in my opinion, is not what you might think, or even as popular as other fancy things that people normally own.
 
 **A Term life insurance**
