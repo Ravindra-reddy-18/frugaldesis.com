@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Most important thing to have as an Immigrant
+title: Most important thing to own as an Immigrant
 description: Importance of Life insurance for F1 students, immigrants and non immigrant from india
 ---
 
 <img src="{{ '/images/setting_sun.jpeg' | relative_url }}" alt="life insurance is importrant for F1 and immigrant students">
 
 
-**One of the most** important thing as an immigrant, living away from home, parents, and all that you love and care, in my opinion, is not what you might think, or even as popular as other fancy things that people normally own.
+**One of the most** important thing to own as an immigrant, living away from home, parents, and all that you love and care, in my opinion, is not what you might think, or even as popular as other fancy things that people normally own.
 
 **A Term life insurance**
 
@@ -35,7 +35,7 @@ Just like a car insurance which is only good for an year or so, this kind of ins
 
 Generally speaking, the sooner you get an insurance, the lower the premiums are. As the older you get the more risker you are, healthwise, for companies to insure. 
 
-example: for a 26 years old person, 500k plan for 10 years, the monthly premiums could be around $35. In other words, it's less than eating out at a fancy Indian restaurant, or even less than two Biryanis!!
+**example: for a 26 years old person, 500k plan for 10 years, the monthly premiums could be around $35. In other words, it's less than eating out at a fancy Indian restaurant, or even less than two Biryanis!!**
 
 It can be tricky to buy an insurance policy, because of our immigrant or non-immigrant status, not a lot of the companies covver us. But here are some companies that do cover us  
 * Guardian Life 
@@ -49,4 +49,5 @@ I've my policy at Guardian Life, that was the only option i knew when i was look
 _Here's to sleeping better at night knowing your loved ones are taken care of from the unexpected._
 
 Thanks for reading,
+
 __Your Desi Dosth__
