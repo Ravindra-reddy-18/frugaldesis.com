@@ -3,6 +3,7 @@ layout: post
 title: Hacking health care as a recent graduate without insurance
 description: How to live in the US without insurance after graduation, f1 opt students
 ---
+
 <img src="{{ '/images/insurance.png' | relative_url }}" alt="F1 students in OPT, without insurance, sliding fee scale alternative">
 
 **As a recent graduate** I’ve lost the privilege of medical insurance, which was mandatory during my masters, and had to pay for it to be enrolled as a student at my university. After my graduation, I had a choice, so **I didn’t buy one.**
@@ -26,9 +27,16 @@ Fancy name alert: it’s called **Sliding Fee Scale program**. And many hospital
 ### What is Sliding fee Scale?  
 It is a flexible pricing structure that reduces costs for services such as healthcare, therapy, or legal aid, based on a patient’s income and household size. The takeaway is, fee will be based on your income, generally charged on appointment basis, and it will be fixed for at least a year depending on the hospital. And the hospitals are federally backed in most cases, so you don’t have to worry about anything.
 
-In my own case, I’ve enrolled in HealthLinc Valparaiso sliding fee program, soon after my graduation, as I was still in job hunting those days and had no income, they’ve enrolled me in their lowest tier, at \$20 for each appointment (Medical, Dental and Vision), and I get a discount at their pharmacy too, which is definitely cheaper than CVS and Walgreens. And on top of that, the lady who took my intake appointment was super cool and made my first appointment cost \$0.
+In my own case, I’ve enrolled in HealthLinc Valparaiso sliding fee program, soon after my graduation, as I was still in job hunting those days and had no income, they’ve enrolled me in their lowest tier, at \$20 for each appointment (Medical, Dental and Vision), and I get a discount at their pharmacy too, which is definitely cheaper than CVS and Walgreens. And on top of that, the lady who took my intake appointment was super cool and made my first appointment cost \$0. 
 
 Since then, I’ve spent around \$40-\$60 at the hospital and got far better value than any insurance plan would have offered me, for services ranging from emergency visits to routine blood tests and eye checkups.
+
+Some instances of how my friends and I used this,  
+* skin allergy check up - my first appointment, free
+* eye checkups and glasses- my friends first appointment, free, and got a prescription for two pairs of glasses costing /$90
+* ear infection - another friend had a bad ear infection, get it checked and a antibiotics prescription for /$20. And later en ENT referral at a private practice, which also cost /$20 only
+* flu fever - i was down with severe fever for a couple days, went to the hospital, got tested positive for flu and antibiotics prescription for /$20
+* blood tests - i got my annual comprehensive metabolic panel, that tests liver, kidney and metabolic performance, at /$20
 
 In my honest opinion, this model of healthcare is simple and feels a lot closer to what we have back home.
 
