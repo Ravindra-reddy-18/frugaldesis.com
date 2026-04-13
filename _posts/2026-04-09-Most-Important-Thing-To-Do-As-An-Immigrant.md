@@ -35,7 +35,7 @@ Just like a car insurance which is only good for an year or so, this kind of ins
 
 Generally speaking, the sooner you get an insurance, the lower the premiums are. As the older you get the more risker you are, healthwise, for companies to insure. 
 
-example: for a 26 years old person, 500k plan for 10 years, the monthly premiums could be around $35. In other words, it's less than eating out at a fancy Indian restaurant, or even less than two Biryanis!!
+**example: for a 26 years old person, 500k plan for 10 years, the monthly premiums could be around $35. In other words, it's less than eating out at a fancy Indian restaurant, or even less than two Biryanis!!**
 
 It can be tricky to buy an insurance policy, because of our immigrant or non-immigrant status, not a lot of the companies covver us. But here are some companies that do cover us  
 * Guardian Life 
